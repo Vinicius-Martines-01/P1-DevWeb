@@ -12,7 +12,7 @@ p {
     justify-content: center;
 }
 .img {
-    justify-content: flex-end;
+    justify-content: center;
     width: 10%;
     height: 10%;
 }
